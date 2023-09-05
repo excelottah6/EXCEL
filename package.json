@@ -1,33 +1,33 @@
 {
-    "name": "QUEEN-NILU-MD",
+    "name": "EXCEL",
     "version": "2.0.0",
     "description": "Multi device whatsapp bot.",
     "main": "index.js",
     "type": "commonjs",
     "license": "GPL-3.0",
   "scripts": {
-     "start": "pm2 start index.js --deep-monitoring --attach --name NILU",
-     "stop": "pm2 stop NILU",
-     "restart": "pm2 restart NILU"
+     "start": "pm2 start index.js --deep-monitoring --attach --name EXCEL",
+     "stop": "pm2 stop EXCEL",
+     "restart": "pm2 restart EXCEL"
      },
   "repository": {
   "type": "git",
-  "url": "git+https://github.com/anithsadanuwan/QUEEN-NILU-MD.git"
+  "url": "git+https://github.com/excelottah6/EXCEL.git"
   },
   "keywords": [
   "whatsapp",
   "wabot",
-  "Queen Nilu",
-  "Quen-NILU-MD",
-  "Janithsadanuwan",
+  "EXCEL",
+  "EXCEL-MD",
+  "excelottah6",
   "Multi Device Whatsapp bot",
-  "Queen Nilu Whatsapp Bot",
+  "EXCEL Whatsapp Bot",
   "Baileys"
 
   ],
-  "author": "Janith sadanuwan",
-  "developer": "Janith sadanuwan",
-  "homepage": "https://github.com/anithsadanuwan/QUEEN-NILU-MD",
+  "author": "EXCEL OTTAH",
+  "developer": "EXCEL OTTAH",
+  "homepage": "https://github.com/excelottah6/EXCEL",
   "dependencies": {
   "@adiwajshing/baileys": "git+https://github.com/WhiskeySockets/Baileys.git",
   "@adiwajshing/keyed-db": "^0.2.4",
