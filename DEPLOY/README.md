@@ -17,19 +17,19 @@
 
 [`Deploy on uffizzi`](https://www.uffizzi.com/)
 
-[`Deploy on Replit`](https://replit.com/github/Janithsadanuwan/Queen-Nilu-Md)
+[`Deploy on Replit`](https://replit.com/github/excelottah6/EXCEL)
 
 
-## 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
+##𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
        
-          https://heroku.com/deploy?template=https://github.com/Janithsadanuwan/QUEEN-NILU-MD
+          https://heroku.com/deploy?template=https://github.com/excelottah6/EXCEL
 
 ## [`WATCH YOUTUBE VIDEO`](https://youtu.be/)
 
 + DEPLOY STEPS
 # 
 1. Fork This Repository 
-2. Update [config.js](https://github.com/Janithsadanuwan/QUEEN-NILU-MD/blob/main/config.js)
+2. Update [config.js](https://github.com/excelottah6/EXCEL/blob/main/config.js)
 3. Update SESSION_ID 
 4. Make acount on railway , heroku , mogenius or koyeb 
 5. Connect Your Repository to your web host site
@@ -38,13 +38,13 @@
 
  ## RAILWAY & KOYEB USERS :
 
-01. Visit to your GitHub and open your Queen Nilu fork repo.
+01. Visit to your GitHub and open your EXCEL fork repo.
 02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
 03. Then, you will see green colour button as "Update branch". Click it.
 04. Now, automatically bot will update.
 
   LOCAL OR VPS USERS :  
-01. Visit to your GitHub and open your Queen Nilu fork repo.
+01. Visit to your GitHub and open your EXCEL fork repo.
 02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
 03. Then, you will see green colour button as "Update branch". Click it.
 04. Open command prompt and command git clone your_fork_url
@@ -52,7 +52,7 @@
    
    
 
-01. Visit to your GitHub and open your Queen  Nilu fork repo.
+01. Visit to your GitHub and open your EXCEL fork repo.
 02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
 03. Then, you will see green colour button as "Update branch". Click it.
 04. Connect to VPS and command git clone your_fork_url
@@ -72,8 +72,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Janithsadanuwan/Queen-Nilu-Md
-cd Queen-Nilu-Md
+git clone https://github.com/excelottah6/EXCEL
+cd EXCEL
 npm install
 npm start
 ```
