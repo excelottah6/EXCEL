@@ -1,8 +1,8 @@
 /*
-WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
-SUPPORT GROUP - https://t.me/QueenNilu
-YOUTUBE - http://youtube.com/janithsadanuwan
+WHATSAPP BOT BY EXCEL OTTAH 
+WHATSAPP - 2347039570336
+SUPPORT GROUP - https://t.me
+YOUTUBE - http://youtube.com
 */
 
 const fs = require('fs');
@@ -23,11 +23,11 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '2347039570336'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'EXCEL'
 
-global.TIMEZONE = 'Asia/Colombo' 
+global.TIMEZONE = 'Africa/Lagos' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
@@ -41,21 +41,21 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = '𝛯𝛸𝐶𝛯𝐿'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@EXCEL 🥷' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = '𝛯𝛸𝐶𝛯𝐿 2023 '
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
-global.PREFIX = '.' // Bot Prefix
+global.PREFIX = '!' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = '𝛯𝛸𝐶𝛯𝐿  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/38b2287de9e0f6b8ecab1.jpg' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = 'default' // Set Alive Message
 
@@ -71,7 +71,7 @@ global.ANTI_BOTS = true
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = 'https://chat.whatsapp.com/HBCXDp3HIb8GzHBBg6MplO' // ur group link
 
 
 /* 18 + Download Settings */
@@ -80,16 +80,16 @@ global.SEX_DL = 'false' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
-global.AUTO_STICKER = true
+global.AUTO_STICKER = false
 
-global.AUTO_REPLY = true
+global.AUTO_REPLY = false
 
-global.VOICE_REPLY = true
+global.VOICE_REPLY = false
 
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.location = "Srilanka, colombo" //ur location
+global.ytname = "YT: " //ur yt chanel name
+global.socialm = "GitHub: excelottah6" //ur github or insta name
+global.location = "Nigeria, delta" //ur location
 
